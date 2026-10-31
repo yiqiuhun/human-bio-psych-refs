@@ -1,0 +1,13 @@
+{
+ "design": 16.0,
+ "title": 20.0,
+ "abstract": 3.0,
+ "cited": 0.0067,
+ "cited_cap": 400.0,
+ "year_fresh": 3.0,
+ "year_recent": 1.5,
+ "year_mid": 1.0,
+ "refuted_penalty": 15.0,
+ "counter_boost": 12.0,
+ "top_journal_boost": 8.0
+}
